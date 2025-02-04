@@ -3,4 +3,3 @@ function stringLength(string) {
 }
 
 module.exports = stringLength;
-console.log(stringLength('Hello, World!')); // 13

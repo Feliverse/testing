@@ -1,0 +1,22 @@
+body {
+  background-color: #f0f0f0;
+}
+
+.Wellcome {
+  color: darkred;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(2, 0, 139);
+  text-align: left;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 120px;
+  color: rgb(245, 244, 244);
+  text-align: center;
+  background-color: black;
+  line-height: 1.2;
+  border-top: 20px solid red;
+}
